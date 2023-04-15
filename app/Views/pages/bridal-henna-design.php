@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Bridal henna designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bridal henna designs</h2>
                             </div>
 
                         </div>
@@ -90,7 +90,7 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bridal henna designs</h2>
                                 <p>Bridal henna designs are intricate and elaborate mehndi patterns that are applied on a bride's hands, arms, feet, and legs during her wedding celebrations. Bridal henna designs vary in style and complexity depending on the bride's cultural background, personal style, and the wedding theme.
 
                                 Some popular bridal henna designs include:

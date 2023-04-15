@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">henna artist</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>henna artist</h2>
                             </div>
 
                         </div>
@@ -90,22 +90,22 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>henna artist</h2>
                                 <p>The "best" henna artist is subjective and can vary depending on individual preferences and needs. However, some qualities that can make a henna artist stand out and considered as one of the best are:
 
-Skill and expertise: A good henna artist has excellent skills and expertise in applying henna designs on different skin types, textures, and tones. They are knowledgeable about different henna paste ingredients, techniques, and tools, and can create unique and intricate designs that are tailored to the client's preferences and the occasion.
+                                Skill and expertise: A good henna artist has excellent skills and expertise in applying henna designs on different skin types, textures, and tones. They are knowledgeable about different henna paste ingredients, techniques, and tools, and can create unique and intricate designs that are tailored to the client's preferences and the occasion.
 
-Creativity: A top henna artist has a strong sense of creativity and can create innovative and beautiful designs that are visually stunning and stand out from the crowd.
+                                Creativity: A top henna artist has a strong sense of creativity and can create innovative and beautiful designs that are visually stunning and stand out from the crowd.
 
-Attention to detail: A skilled henna artist pays close attention to detail and ensures that each design element is precise, symmetrical, and aesthetically pleasing.
+                                Attention to detail: A skilled henna artist pays close attention to detail and ensures that each design element is precise, symmetrical, and aesthetically pleasing.
 
-Professionalism: A reliable and trustworthy henna artist is professional in their approach and communication, and values the client's time, preferences, and needs.
+                                Professionalism: A reliable and trustworthy henna artist is professional in their approach and communication, and values the client's time, preferences, and needs.
 
-Hygiene and safety: A good henna artist follows strict hygiene and safety practices, such as using fresh and high-quality henna paste, sterilizing their tools and equipment, and ensuring that the application process is clean and safe.
+                                Hygiene and safety: A good henna artist follows strict hygiene and safety practices, such as using fresh and high-quality henna paste, sterilizing their tools and equipment, and ensuring that the application process is clean and safe.
 
-Positive client feedback: A top henna artist has positive client feedback, testimonials, and reviews that reflect their excellent work, professionalism, and customer service.
+                                Positive client feedback: A top henna artist has positive client feedback, testimonials, and reviews that reflect their excellent work, professionalism, and customer service.
 
-Overall, the best henna artist is someone who combines skill, creativity, attention to detail, professionalism, and hygiene to create beautiful and meaningful henna designs that meet the client's expectations and make their occasion memorable and special.
+                                Overall, the best henna artist is someone who combines skill, creativity, attention to detail, professionalism, and hygiene to create beautiful and meaningful henna designs that meet the client's expectations and make their occasion memorable and special.
                                 </p>
                             </div>
                         </div>

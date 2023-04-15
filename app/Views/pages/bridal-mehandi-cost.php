@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">bridal mehndi cost</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>bridal mehndi cost</h2>
                             </div>
 
                         </div>
@@ -90,14 +90,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>bridal mehndi cost</h2>
                                 <p>The cost of bridal mehndi can vary depending on various factors such as the location, experience of the artist, the intricacy of the design, the type of mehndi used, and the duration of the service.
 
-On average, the cost of bridal mehndi in India ranges from Rs. 5,000 to Rs. 15,000. In the United States, the cost can range from $150 to $500, while in the United Kingdom, the cost can range from £100 to £300.
+                                On average, the cost of bridal mehndi in India ranges from Rs. 5,000 to Rs. 15,000. In the United States, the cost can range from $150 to $500, while in the United Kingdom, the cost can range from £100 to £300.
 
-Some bridal mehndi artists charge a fixed rate for their services, while others charge per hour or per design. Some may also offer packages that include other services such as nail art, hair styling, or makeup.
+                                Some bridal mehndi artists charge a fixed rate for their services, while others charge per hour or per design. Some may also offer packages that include other services such as nail art, hair styling, or makeup.
 
-It's important to do your research and choose a bridal mehndi artist who is skilled, experienced, and offers a fair and transparent pricing structure. You may also want to consider booking your mehndi artist in advance to ensure their availability and avoid any last-minute hassle.
+                                It's important to do your research and choose a bridal mehndi artist who is skilled, experienced, and offers a fair and transparent pricing structure. You may also want to consider booking your mehndi artist in advance to ensure their availability and avoid any last-minute hassle.
                                 </p>
                             </div>
                         </div>

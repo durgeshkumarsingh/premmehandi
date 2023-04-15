@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Foot mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Foot mehndi</h2>
                             </div>
 
                         </div>
@@ -90,14 +90,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Foot mehndi</h2>
                                 <p>Foot mehndi designs are a popular and beautiful way to adorn the feet and add an extra touch of elegance to your overall look. Foot mehndi designs are often more delicate and intricate than hand designs and can range from simple and minimalist to highly detailed and elaborate.
 
-Some popular foot mehndi designs include floral patterns, paisley designs, geometric shapes, and intricate mandalas. Bridal foot mehndi designs often include traditional motifs such as peacocks, elephants, and bride-groom motifs, and are highly detailed and intricate.
+                                Some popular foot mehndi designs include floral patterns, paisley designs, geometric shapes, and intricate mandalas. Bridal foot mehndi designs often include traditional motifs such as peacocks, elephants, and bride-groom motifs, and are highly detailed and intricate.
 
-Foot mehndi designs are often applied on the top of the feet and can extend up to the ankles or even the calves. They can also be applied on the soles of the feet, although this is less common. Foot mehndi designs can be customized to match your personal style, wedding attire, and the overall theme of the wedding.
+                                Foot mehndi designs are often applied on the top of the feet and can extend up to the ankles or even the calves. They can also be applied on the soles of the feet, although this is less common. Foot mehndi designs can be customized to match your personal style, wedding attire, and the overall theme of the wedding.
 
-When getting a foot mehndi design, it's important to choose a comfortable position to sit in and to keep the feet elevated for the mehndi to dry properly. You may also want to wear open-toed shoes or sandals to show off your beautiful foot mehndi design.
+                                When getting a foot mehndi design, it's important to choose a comfortable position to sit in and to keep the feet elevated for the mehndi to dry properly. You may also want to wear open-toed shoes or sandals to show off your beautiful foot mehndi design.
                                 </p>
                             </div>
                         </div>
@@ -116,7 +116,7 @@ When getting a foot mehndi design, it's important to choose a comfortable positi
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/legsmehandidesign/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

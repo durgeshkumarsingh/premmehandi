@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Arabic mehndi design</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Arabic mehndi design</h2>
                             </div>
 
                         </div>
@@ -90,20 +90,20 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Arabic mehndi design</h2>
                                 <p>Arabic mehndi design is a type of henna body art that originates from the Middle East and is characterized by its bold, geometric designs. It often features intricate patterns and motifs that cover a large area of the body, such as the hands, arms, feet, and legs.
 
-Some common elements of Arabic mehndi design include floral motifs, geometric shapes, and intricate patterns. Arabic mehndi design typically features large, bold lines and dots, and often incorporates negative space to create contrast and visual interest.
+                                Some common elements of Arabic mehndi design include floral motifs, geometric shapes, and intricate patterns. Arabic mehndi design typically features large, bold lines and dots, and often incorporates negative space to create contrast and visual interest.
 
-Arabic mehndi designs are often symmetrical, with similar patterns and motifs on both hands or feet. They may also incorporate personalized elements such as the couple's initials, wedding date, or other meaningful symbols.
+                                Arabic mehndi designs are often symmetrical, with similar patterns and motifs on both hands or feet. They may also incorporate personalized elements such as the couple's initials, wedding date, or other meaningful symbols.
 
-Some popular Arabic mehndi designs include the following:
+                                Some popular Arabic mehndi designs include the following:
 
-The mandala design: A circular design that features intricate patterns and motifs radiating out from a central point.
-The peacock design: A design that features a peacock with its feathers spread out, often accompanied by floral motifs and intricate patterns.
-The bracelet design: A design that features a band of mehndi around the wrist, often with intricate patterns and motifs.
-The floral design: A design that features various floral motifs, such as roses, lotuses, or daisies, often arranged in a symmetrical pattern.
-Overall, Arabic mehndi designs are bold, intricate, and visually stunning. They are a beautiful and meaningful way to celebrate special occasions and events, such as weddings, festivals, and other celebrations.
+                                The mandala design: A circular design that features intricate patterns and motifs radiating out from a central point.
+                                The peacock design: A design that features a peacock with its feathers spread out, often accompanied by floral motifs and intricate patterns.
+                                The bracelet design: A design that features a band of mehndi around the wrist, often with intricate patterns and motifs.
+                                The floral design: A design that features various floral motifs, such as roses, lotuses, or daisies, often arranged in a symmetrical pattern.
+                                Overall, Arabic mehndi designs are bold, intricate, and visually stunning. They are a beautiful and meaningful way to celebrate special occasions and events, such as weddings, festivals, and other celebrations.
                                 </p>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ Overall, Arabic mehndi designs are bold, intricate, and visually stunning. They 
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/arabicmehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));
