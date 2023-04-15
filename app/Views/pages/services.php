@@ -1,6 +1,6 @@
 <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
-            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>public/assets/images/prem/stylish.jpg);">
+            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/stylish.jpg);">
             </div>
             <div class="container">
                 <div class="row">
@@ -27,7 +27,7 @@
 <!--Start Service Style1 Area-->
         <section class="service-style1-area">
             <div class="service-style1__bg"
-                style="background-image:" url(<?= site_url('') ?>public/assets/images/parallax-background/service-style1.jpg);"></div>
+                style="background-image:" url(<?= site_url('') ?>assets/images/parallax-background/service-style1.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">

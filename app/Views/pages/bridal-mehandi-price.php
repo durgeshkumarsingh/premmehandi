@@ -1,6 +1,6 @@
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
-            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>public/assets/images/prem/bridal.jpg);">
+            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
             </div>
             <div class="container">
                 <div class="row">
@@ -86,7 +86,7 @@
                     <div class="col-xl-8 col-lg-7 order-box-1">
                         <div class="service-details__content">
                             <div class="img-box1">
-                                <img src="<?= site_url() ?>public/assets/images/prem/stylish.jpg">
+                                <img src="<?= site_url() ?>assets/images/prem/stylish.jpg">
                             </div>
 
                             <div class="text-box1">

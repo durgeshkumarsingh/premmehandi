@@ -3,7 +3,7 @@
 
         <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
-            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>public/assets/images/prem/arabic.jpg);">
+            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/arabic.jpg);">
             </div>
             <div class="container">
                 <div class="row">
@@ -38,7 +38,7 @@
                     <div class="col-xl-7">
                         <div class="about-style3__img-box">
                             <div class="inner">
-                                <img src="<?= site_url() ?>public/assets/images/prem/premphoto.jpg" alt="">
+                                <img src="<?= site_url() ?>assets/images/prem/premphoto.jpg" alt="">
                             </div>
                             <div class="about-style3-experience">
                                 <p><span>16+ years</span> of experiences</p>
@@ -73,22 +73,22 @@
                         <ul class="partner-box partner-carousel owl-carousel owl-theme owl-dot-style1 rtl-carousel">
                             <!--Start Single Partner Logo Box-->
                             <li class="single-partner-logo-box">
-                                <a href="#"><img src="<?= site_url() ?>public/assets/images/brand/brand-logo-1.png" alt="Awesome Image"></a>
+                                <a href="#"><img src="<?= site_url() ?>assets/images/brand/brand-logo-1.png" alt="Awesome Image"></a>
                             </li>
                             <!--End Single Partner Logo Box-->
                             <!--Start Single Partner Logo Box-->
                             <li class="single-partner-logo-box">
-                                <a href="#"><img src="<?= site_url() ?>public/assets/images/brand/brand-logo-2.png" alt="Awesome Image"></a>
+                                <a href="#"><img src="<?= site_url() ?>assets/images/brand/brand-logo-2.png" alt="Awesome Image"></a>
                             </li>
                             <!--End Single Partner Logo Box-->
                             <!--Start Single Partner Logo Box-->
                             <li class="single-partner-logo-box">
-                                <a href="#"><img src="<?= site_url() ?>public/assets/images/brand/brand-logo-3.png" alt="Awesome Image"></a>
+                                <a href="#"><img src="<?= site_url() ?>assets/images/brand/brand-logo-3.png" alt="Awesome Image"></a>
                             </li>
                             <!--End Single Partner Logo Box-->
                             <!--Start Single Partner Logo Box-->
                             <li class="single-partner-logo-box">
-                                <a href="#"><img src="<?= site_url() ?>public/assets/images/brand/brand-logo-4.png" alt="Awesome Image"></a>
+                                <a href="#"><img src="<?= site_url() ?>assets/images/brand/brand-logo-4.png" alt="Awesome Image"></a>
                             </li>
                             <!--End Single Partner Logo Box-->
                         </ul>

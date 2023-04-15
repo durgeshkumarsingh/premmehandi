@@ -1,6 +1,6 @@
         <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
-            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>public/assets/images/prem/bridal.jpg);">
+            <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
             </div>
             <div class="container">
                 <div class="row">
@@ -93,7 +93,7 @@
                             </div>
 
                             <form id="contact-form" name="contact_form" class="default-form2"
-                                action="<?= site_url() ?>public/assets/inc/sendmail.php" method="post">
+                                action="<?= site_url() ?>assets/inc/sendmail.php" method="post">
                                 <div class="row">
 
                                     <div class="col-xl-12">
@@ -172,7 +172,7 @@
         <div class="bottom-parallax">
             <!--Start footer area -->
             <footer class="footer-area">
-                <div class="footer-area-bg" style="background-image: url(<?= site_url() ?>public/assets/images/resources/footer-bg-1.png);">
+                <div class="footer-area-bg" style="background-image: url(<?= site_url() ?>assets/images/resources/footer-bg-1.png);">
                 </div>
 
                 <div class="footer-top">
