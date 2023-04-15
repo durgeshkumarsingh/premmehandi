@@ -127,6 +127,31 @@
                         </div>
                     </div>
                 </div>
+                <div class="footer-middle" id="footer-middlea">
+                        <div class="container">
+                            <div class="row">
+                               <h4>Providing On Location Mehandi Services in India</h4>
+                               <div class="read-less-location">
+                                   <?php $cityname1 = array("agra","amritsar","ashok vihar","badarpur","bhajanpura","bhikaji cama place","bhogal","cannought place","central delhi","chandigarh","chandni chowk","chirag delhi","cp","daryaganj","defence colony","delhi ncr","dev nagar","dilshad garden","dwarka","east delhi","east of kailash","east patel nagar","faridabad","ghaziabad","gk-1","greater kailash");
+                                         $cityname2 = array("gk-2","greater noida","green park","gujranwala town","gurgaon","hamdard nagar","hari nagar","haryana","hauz khas","himachal","inderlok","inderpuri","india","janakpuri","jangpura","jhandevalan","kalkaji","kamla nagar","kanhaiya nagar","kanpur","karampura","karol bagh","keshavpuram","khan market","kingsway camp","kirti nagar","lajpat nagar","lawrence road","laxmi nagar","lodhi road","ludhiana","lucknow","mansarovar garden","mathura","mayapuri","mayur vihar phase1","mayur vihar phase2","mayur vihar phase3","mayur vihar","meerut","model town","moti bagh","moti nagar","najafgarh","naraina vihar","naraina","netaji subhash place","new delhi","new friends colony","noida","north delhi","paharganj","palam","panipat","paschim vihar","patel nagar","patparganj","pitampura","punjab","punjab bagh","purani delhi","raja garden","rajasthan","rajendra place","rajinder nagar","rajouri garden","rani bagh","rk puram","rohini","safdarjung","saket","sarojini nagar","shahdara","shalimar bagh","salimar garden","shastri nagar","sonipat","south delhi","south ex","shubhash nagar","tagore garden","tilak nagar","timarpur","tri nagar","udaipur","uday park","uttam nagar","uttar pradesh","vasant kunj","vikashpuri","vivek vihar","west delhi","west patel nagar");
+                                     foreach($cityname1 as $city) {?>
+                                      <a href="<?= site_url('')?><?php echo (str_replace(' ','',$city));?>/home">
+                                          <?php echo ucwords($city); ?>
+                                      </a>|
+
+                                  <?php } ?>
+                                 <div class="moretext">
+                                 <?php foreach($cityname2 as $city) {?>
+                                   <a href="<?= site_url('')?><?php echo (str_replace(' ','',$city));?>/home">
+                                          <?php echo ucwords($city); ?>
+                                      </a>|
+                                  <?php } ?>
+                                 </div>
+                                 <a class="moreless-button readmorebtn" href="#footer-middlea">Read More</a>
+                            </div>
+                        </div>
+                    </div>         
+                </div>
                 <!--End Footer-->
                 <div class="footer-bottom">
                     <div class="container">
@@ -170,5 +195,31 @@
     <script src="<?= site_url() ?>assets/js/wow.js"></script>
     <!-- thm custom script -->
     <script src="<?= site_url() ?>assets/js/custom.js"></script>
+    <script>
+        $('.moreless-button').click(function() {
+          $('.moretext').slideToggle();
+          if ($('.moreless-button').text() == "Read more") {
+            $(this).text("Read less")
+        } else {
+            $(this).text("Read less")
+        }
+    });
+</script>  
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+91-8882438771", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
 </body>
 </html>

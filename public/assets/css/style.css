@@ -15,6 +15,7 @@
 
 **********************************************/
 .gallery img{height: 460px;border: 10px solid;}
+.moretext {display: none;}
 
 
 :root {
