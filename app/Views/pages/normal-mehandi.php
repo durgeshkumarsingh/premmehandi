@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Normal mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Normal mehndi</h2>
                             </div>
 
                         </div>
@@ -90,12 +96,12 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Normal mehndi</h2>
                                 <p>Normal mehndi is a form of henna body art that is applied for various occasions such as festivals, religious ceremonies, and other celebrations. It is a traditional art form that is popular in South Asia, the Middle East, and North Africa.
-The designs of normal mehndi can vary greatly, ranging from simple and minimalistic to complex and intricate. They may feature traditional motifs such as flowers, paisleys, geometric shapes, and other symbols that represent good luck, prosperity, and blessings.
-Normal mehndi is usually applied to the hands and feet, but it can also be applied to other parts of the body such as the arms and legs. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
-The purpose of normal mehndi varies depending on the occasion and cultural context. In general, it is believed to bring good luck, fortune, and blessings to the person wearing it. It is also a way to enhance the beauty of the individual and add to the festive atmosphere of the occasion.
-Overall, normal mehndi is a beautiful and traditional art form that is enjoyed and appreciated by people around the world. It is a way to celebrate and enhance the beauty of special occasions and cultural traditions.
+                                The designs of normal mehndi can vary greatly, ranging from simple and minimalistic to complex and intricate. They may feature traditional motifs such as flowers, paisleys, geometric shapes, and other symbols that represent good luck, prosperity, and blessings.
+                                Normal mehndi is usually applied to the hands and feet, but it can also be applied to other parts of the body such as the arms and legs. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
+                                The purpose of normal mehndi varies depending on the occasion and cultural context. In general, it is believed to bring good luck, fortune, and blessings to the person wearing it. It is also a way to enhance the beauty of the individual and add to the festive atmosphere of the occasion.
+                                Overall, normal mehndi is a beautiful and traditional art form that is enjoyed and appreciated by people around the world. It is a way to celebrate and enhance the beauty of special occasions and cultural traditions.
 
                                 </p>
                             </div>
@@ -115,7 +121,7 @@ Overall, normal mehndi is a beautiful and traditional art form that is enjoyed a
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/normalmehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

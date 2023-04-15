@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Traditional mehndi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Traditional mehndi designs</h2>
                             </div>
 
                         </div>
@@ -90,24 +96,24 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Traditional mehndi designs</h2>
                                 <p>Traditional mehndi designs are intricate and ornate patterns that have been passed down through generations in various cultures. Here are some features of traditional mehndi designs:
 
-Geometric patterns: Traditional mehndi designs often feature geometric patterns, such as circles, squares, and triangles.
+                            Geometric patterns: Traditional mehndi designs often feature geometric patterns, such as circles, squares, and triangles.
 
-Floral motifs: Flowers and leaves are common motifs in traditional mehndi designs, often drawn in a symmetrical pattern.
+                            Floral motifs: Flowers and leaves are common motifs in traditional mehndi designs, often drawn in a symmetrical pattern.
 
-Peacock motifs: Peacocks are a popular motif in Indian mehndi designs, often featuring the bird's feathers and intricate details.
+                            Peacock motifs: Peacocks are a popular motif in Indian mehndi designs, often featuring the bird's feathers and intricate details.
 
-Paisley designs: Paisley designs are a common element in traditional mehndi designs, often featuring paisley-shaped patterns arranged in a symmetrical design.
+                            Paisley designs: Paisley designs are a common element in traditional mehndi designs, often featuring paisley-shaped patterns arranged in a symmetrical design.
 
-Bridal designs: Bridal mehndi designs are often more intricate and detailed, featuring images of the bride and groom, religious symbols, and other elements that represent love and marriage.
+                            Bridal designs: Bridal mehndi designs are often more intricate and detailed, featuring images of the bride and groom, religious symbols, and other elements that represent love and marriage.
 
-Intricate details: Traditional mehndi designs often feature intricate details, such as small dots and lines, that create a complex and beautiful pattern.
+                            Intricate details: Traditional mehndi designs often feature intricate details, such as small dots and lines, that create a complex and beautiful pattern.
 
-Black and red mehndi: Traditional mehndi designs may be drawn in either black or red henna, depending on the occasion and cultural traditions.
+                            Black and red mehndi: Traditional mehndi designs may be drawn in either black or red henna, depending on the occasion and cultural traditions.
 
-When choosing a traditional mehndi design, it's important to consider the occasion and cultural significance of the design. Additionally, it's important to choose a skilled and experienced mehndi artist who can recreate the intricate and detailed designs with precision and accuracy.
+                            When choosing a traditional mehndi design, it's important to consider the occasion and cultural significance of the design. Additionally, it's important to choose a skilled and experienced mehndi artist who can recreate the intricate and detailed designs with precision and accuracy.
                                 </p>
                             </div>
                         </div>

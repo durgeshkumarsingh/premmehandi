@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Mehandi price with design</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi price with design</h2>
                             </div>
 
                         </div>
@@ -90,7 +96,7 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi price with design</h2>
                                 <p>The price of mehndi can vary depending on a few factors, such as the location, the complexity of the design, and the experience of the artist. Generally, prices for mehndi can range from 500-15000 or more, depending on the design and the artist's experience.
 
                                 For example, a simple Arabic mehndi design on the hand may cost around 200-1100, while a more intricate bridal mehndi design can cost upwards of 10000 or more. Additionally, if you're getting mehndi done by a well-known or experienced artist, the price may be higher.

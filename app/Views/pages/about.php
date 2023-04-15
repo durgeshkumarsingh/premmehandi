@@ -1,4 +1,9 @@
-       
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?>       
 
 
         <!--Start breadcrumb area paroller-->
@@ -54,7 +59,7 @@
                                 </div>
                             </div>
                             <div class="text">
-                                <p>Prem Mehandi is serving Delhi from the last 16 years. Our work justifies our quality and services at the end. We have a group of more than 20 Mehandi artists including professional feet and hand Mehandi artists. We use natural ingredients to prepare henna. Our henna is hygiene and prepared by organic means, so there will be no chance to get any side effects after use. Since we use natural henna, the color and intrinsic quality of henna are also right. Quality of henna is so good that the color will be last long. Diversity in design makes us superior over other Mehandi artists. We have a wide range of services and plan for our clients. I need you to serve you better with affordable budget. We are not only limited to Delhi, and our services are also available in other states of India. We have professionally managed team who ready to help you in your great events of life.</p>
+                                <p>Prem Mehandi is serving <?= $cityn;?> from the last 16 years. Our work justifies our quality and services at the end. We have a group of more than 20 Mehandi artists including professional feet and hand Mehandi artists. We use natural ingredients to prepare henna. Our henna is hygiene and prepared by organic means, so there will be no chance to get any side effects after use. Since we use natural henna, the color and intrinsic quality of henna are also right. Quality of henna is so good that the color will be last long. Diversity in design makes us superior over other Mehandi artists. We have a wide range of services and plan for our clients. I need you to serve you better with affordable budget. We are not only limited to <?= $cityn;?>, and our services are also available in other states of India. We have professionally managed team who ready to help you in your great events of life.</p>
                             </div>
                         </div>
                     </div>

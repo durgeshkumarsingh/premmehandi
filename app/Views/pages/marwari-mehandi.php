@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Marwari mehndi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Marwari mehndi designs</h2>
                             </div>
 
                         </div>
@@ -90,22 +96,22 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Marwari mehndi designs</h2>
                                 <p>Marwari mehndi designs are a traditional form of mehndi art that originated in the Marwar region of Rajasthan, India. Marwari mehndi designs are known for their intricate patterns and motifs, and often feature a mix of geometric shapes, floral designs, and peacock motifs.
 
-Some popular Marwari mehndi designs include:
+                                Some popular Marwari mehndi designs include:
 
-Mandala designs: Mandala designs are a popular choice for Marwari mehndi, and often feature intricate geometric patterns that radiate from a central point.
+                                Mandala designs: Mandala designs are a popular choice for Marwari mehndi, and often feature intricate geometric patterns that radiate from a central point.
 
-Peacock motifs: Peacock motifs are a common element in Marwari mehndi designs, and can add a regal and elegant touch to the overall design.
+                                Peacock motifs: Peacock motifs are a common element in Marwari mehndi designs, and can add a regal and elegant touch to the overall design.
 
-Paisley patterns: Paisley patterns are another common element in Marwari mehndi designs, and can be used to create beautiful and intricate patterns.
+                                Paisley patterns: Paisley patterns are another common element in Marwari mehndi designs, and can be used to create beautiful and intricate patterns.
 
-Traditional Indian motifs: Traditional Indian motifs like kalash (urn), doli (palanquin), and shehnai (Indian musical instrument) are often used in Marwari mehndi designs to create a sense of cultural identity and tradition.
+                                Traditional Indian motifs: Traditional Indian motifs like kalash (urn), doli (palanquin), and shehnai (Indian musical instrument) are often used in Marwari mehndi designs to create a sense of cultural identity and tradition.
 
-Bridal mehndi designs: Bridal mehndi designs are also popular in Marwari mehndi, as they are elaborate and ornate, and can be customized to include elements like the bride-groom motif or the wedding date.
+                                Bridal mehndi designs: Bridal mehndi designs are also popular in Marwari mehndi, as they are elaborate and ornate, and can be customized to include elements like the bride-groom motif or the wedding date.
 
-Overall, Marwari mehndi designs are a beautiful way to express one's cultural identity and add a touch of elegance and beauty to any festive occasion.
+                                Overall, Marwari mehndi designs are a beautiful way to express one's cultural identity and add a touch of elegance and beauty to any festive occasion.
                                 </p>
                             </div>
                         </div>
@@ -124,7 +130,7 @@ Overall, Marwari mehndi designs are a beautiful way to express one's cultural id
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/madhubanidesigns/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

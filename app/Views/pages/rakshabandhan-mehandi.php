@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Raksha Bandhan Mehandi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Raksha Bandhan Mehandi</h2>
                             </div>
 
                         </div>
@@ -90,16 +96,16 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Raksha Bandhan Mehandi</h2>
                                 <p>Raksha Bandhan is a Hindu festival that celebrates the bond between siblings, particularly between brothers and sisters. It is traditionally celebrated by tying a rakhi, a sacred thread, around the brother's wrist, and the brother in turn promises to protect and care for his sister.
 
-Mehndi is an important part of Raksha Bandhan celebrations, particularly for sisters. Many sisters apply mehndi on their hands and feet as a way to enhance their beauty and show their love for their brothers.
+                                Mehndi is an important part of Raksha Bandhan celebrations, particularly for sisters. Many sisters apply mehndi on their hands and feet as a way to enhance their beauty and show their love for their brothers.
 
-When it comes to Raksha Bandhan mehndi designs, there are many options to choose from. Some popular designs include traditional Indian motifs such as paisleys, flowers, and peacocks, as well as more modern designs featuring geometric patterns or even the names of siblings or the word "Raksha Bandhan" written in mehndi.
+                                When it comes to Raksha Bandhan mehndi designs, there are many options to choose from. Some popular designs include traditional Indian motifs such as paisleys, flowers, and peacocks, as well as more modern designs featuring geometric patterns or even the names of siblings or the word "Raksha Bandhan" written in mehndi.
 
-One of the unique features of Raksha Bandhan mehndi is the use of the Rakhi symbol in the design. This can be incorporated in various ways, such as by drawing the actual Rakhi thread in the design, or by using motifs such as the lotus or the sun, which are traditionally associated with the festival.
+                                One of the unique features of Raksha Bandhan mehndi is the use of the Rakhi symbol in the design. This can be incorporated in various ways, such as by drawing the actual Rakhi thread in the design, or by using motifs such as the lotus or the sun, which are traditionally associated with the festival.
 
-If you're planning to get Raksha Bandhan mehndi, it's a good idea to schedule an appointment with a skilled mehndi artist a few days in advance, as the application process can take several hours and the design will need time to fully develop. You can also bring in photos or ideas for inspiration to help your artist create the perfect Raksha Bandhan mehndi design for you.
+                                If you're planning to get Raksha Bandhan mehndi, it's a good idea to schedule an appointment with a skilled mehndi artist a few days in advance, as the application process can take several hours and the design will need time to fully develop. You can also bring in photos or ideas for inspiration to help your artist create the perfect Raksha Bandhan mehndi design for you.
                                 </p>
                             </div>
                         </div>
@@ -118,7 +124,7 @@ If you're planning to get Raksha Bandhan mehndi, it's a good idea to schedule an
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/stylishmehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

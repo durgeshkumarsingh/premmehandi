@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
 <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/stylish.jpg);">
@@ -27,7 +33,7 @@
 <!--Start Service Style1 Area-->
         <section class="service-style1-area">
             <div class="service-style1__bg"
-                style="background-image:" url(<?= site_url('') ?>assets/images/parallax-background/service-style1.jpg);"></div>
+                style="background-image: url(<?= site_url('') ?>assets/images/parallax-background/service-style1.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">

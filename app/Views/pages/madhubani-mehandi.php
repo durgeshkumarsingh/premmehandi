@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Madhubani mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Madhubani mehndi</h2>
                             </div>
 
                         </div>
@@ -90,12 +96,12 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Madhubani mehndi</h2>
                                 <p>Madhubani mehndi is a form of henna body art that originates from the Mithila region of Bihar, India. It is a traditional art form that has been practised for centuries by women in the region.
-The designs of Madhubani mehndi are intricate and detailed, featuring traditional motifs such as peacocks, fish, flowers, and other symbols that represent nature and spirituality. The designs are typically filled with patterns and colors, creating a beautiful and vibrant effect.
-Madhubani mehndi is usually applied to the hands and feet, but it can also be applied to other parts of the body. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
-The purpose of Madhubani mehndi is to celebrate and honor the cultural heritage of the Mithila region of Bihar. It is also a way to enhance the beauty of the individual and add to the festive atmosphere of special occasions and celebrations.
-Overall, Madhubani mehndi is a beautiful and meaningful art form that is enjoyed and appreciated by people around the world. It is a way to honor tradition and culture while celebrating beauty and creativity.
+                                The designs of Madhubani mehndi are intricate and detailed, featuring traditional motifs such as peacocks, fish, flowers, and other symbols that represent nature and spirituality. The designs are typically filled with patterns and colors, creating a beautiful and vibrant effect.
+                                Madhubani mehndi is usually applied to the hands and feet, but it can also be applied to other parts of the body. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
+                                The purpose of Madhubani mehndi is to celebrate and honor the cultural heritage of the Mithila region of Bihar. It is also a way to enhance the beauty of the individual and add to the festive atmosphere of special occasions and celebrations.
+                                Overall, Madhubani mehndi is a beautiful and meaningful art form that is enjoyed and appreciated by people around the world. It is a way to honor tradition and culture while celebrating beauty and creativity.
 
                                 </p>
                             </div>
@@ -115,7 +121,7 @@ Overall, Madhubani mehndi is a beautiful and meaningful art form that is enjoyed
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/madhubanidesigns/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

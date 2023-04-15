@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Tattoo-style mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Tattoo-style mehndi</h2>
                             </div>
 
                         </div>
@@ -90,24 +96,24 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Tattoo-style mehndi</h2>
                                 <p>Tattoo-style mehndi is a unique and trendy form of mehndi design that incorporates elements of tattoo art. Here are some ideas for tattoo-style mehndi designs:
 
-Tribal design: Incorporate bold, black lines and geometric shapes for a tribal-inspired look.
+                                Tribal design: Incorporate bold, black lines and geometric shapes for a tribal-inspired look.
 
-Animal motifs: Use animal motifs like birds, butterflies, or even a snake for a tattoo-style mehndi design.
+                                Animal motifs: Use animal motifs like birds, butterflies, or even a snake for a tattoo-style mehndi design.
 
-Script design: Incorporate meaningful quotes or phrases into your mehndi design in a script font.
+                                Script design: Incorporate meaningful quotes or phrases into your mehndi design in a script font.
 
-Mandala design: Mandala designs are popular in both tattoo art and mehndi design, and combining the two can create a unique and stunning look.
+                                Mandala design: Mandala designs are popular in both tattoo art and mehndi design, and combining the two can create a unique and stunning look.
 
-Portrait design: A portrait design, such as a loved one's face, can be recreated in mehndi in a tattoo-style for a unique and personalized design.
+                                Portrait design: A portrait design, such as a loved one's face, can be recreated in mehndi in a tattoo-style for a unique and personalized design.
 
-Gothic design: Incorporate elements of gothic art, such as dark colors, skulls, and roses for a tattoo-style mehndi design.
+                                Gothic design: Incorporate elements of gothic art, such as dark colors, skulls, and roses for a tattoo-style mehndi design.
 
-Ombré design: Create a tattoo-style ombré design by blending two colors in your mehndi, such as black and red or black and gold.
+                                Ombré design: Create a tattoo-style ombré design by blending two colors in your mehndi, such as black and red or black and gold.
 
-When choosing a tattoo-style mehndi design, it's important to consider the occasion and your personal style. Tattoo-style mehndi designs can be more bold and dramatic than traditional mehndi designs, so they may be more appropriate for informal events or parties. Additionally, it's important to choose a skilled and experienced mehndi artist who can recreate the tattoo-style design with precision and accuracy.
+                                When choosing a tattoo-style mehndi design, it's important to consider the occasion and your personal style. Tattoo-style mehndi designs can be more bold and dramatic than traditional mehndi designs, so they may be more appropriate for informal events or parties. Additionally, it's important to choose a skilled and experienced mehndi artist who can recreate the tattoo-style design with precision and accuracy.
                                 </p>
                             </div>
                         </div>
@@ -126,7 +132,7 @@ When choosing a tattoo-style mehndi design, it's important to consider the occas
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/stylishmehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

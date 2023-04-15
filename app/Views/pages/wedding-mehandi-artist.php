@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Wedding Mehandi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Wedding Mehandi designs</h2>
                             </div>
 
                         </div>
@@ -90,22 +96,22 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Wedding Mehandi designs</h2>
                                 <p>A wedding is one of the most important events in a person's life, and the mehndi ceremony is a significant part of the wedding festivities in many cultures. Here are some qualities to look for when choosing a wedding mehndi artist:
 
-Experience: Look for a mehndi artist who has experience creating wedding mehndi designs. They should have a portfolio of their work that showcases their skills and creativity.
+                                    Experience: Look for a mehndi artist who has experience creating wedding mehndi designs. They should have a portfolio of their work that showcases their skills and creativity.
 
-Customization: A good wedding mehndi artist will work with you to create a custom design that reflects your personal style and preferences. They should be able to incorporate meaningful symbols and elements into the design, such as the couple's initials, religious symbols, or cultural motifs.
+                                    Customization: A good wedding mehndi artist will work with you to create a custom design that reflects your personal style and preferences. They should be able to incorporate meaningful symbols and elements into the design, such as the couple's initials, religious symbols, or cultural motifs.
 
-Professionalism: A wedding mehndi artist should be professional in their approach and demeanor. They should arrive on time, use high-quality henna paste, and take steps to ensure the design will last as long as possible.
+                                    Professionalism: A wedding mehndi artist should be professional in their approach and demeanor. They should arrive on time, use high-quality henna paste, and take steps to ensure the design will last as long as possible.
 
-Attention to detail: Wedding mehndi designs are often intricate and complex, so it's important to choose an artist who has a strong attention to detail. They should be able to create clean, precise lines and fill in the design with intricate patterns and details.
+                                    Attention to detail: Wedding mehndi designs are often intricate and complex, so it's important to choose an artist who has a strong attention to detail. They should be able to create clean, precise lines and fill in the design with intricate patterns and details.
 
-Communication: The wedding mehndi artist should communicate clearly with you throughout the process, from the initial consultation to the final design. They should be receptive to feedback and willing to make adjustments to the design as needed.
+                                    Communication: The wedding mehndi artist should communicate clearly with you throughout the process, from the initial consultation to the final design. They should be receptive to feedback and willing to make adjustments to the design as needed.
 
-Reviews and recommendations: Look for reviews and recommendations from previous clients to get a sense of the artist's skill and professionalism.
+                                    Reviews and recommendations: Look for reviews and recommendations from previous clients to get a sense of the artist's skill and professionalism.
 
-By choosing a skilled and experienced wedding mehndi artist, you can ensure that your mehndi design is a beautiful and memorable part of your wedding day.
+                                    By choosing a skilled and experienced wedding mehndi artist, you can ensure that your mehndi design is a beautiful and memorable part of your wedding day.
                                 </p>
                             </div>
                         </div>

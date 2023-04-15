@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Rajasthani mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Rajasthani mehndi</h2>
                             </div>
 
                         </div>
@@ -90,14 +96,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Rajasthani mehndi</h2>
                                 <p>Rajasthani mehndi designs are known for their intricate and detailed patterns, which are heavily influenced by the art and culture of Rajasthan, a state in India. These designs are often very elaborate and cover the hands and feet completely, with the use of bold lines and shapes.
 
-Rajasthani mehndi designs typically include elements of nature, such as flowers, leaves, and vines, as well as traditional Rajasthani motifs, such as peacocks, elephants, and camels. The designs may also feature geometric shapes, such as triangles and squares, and may incorporate elements of Rajasthani architecture, such as the intricate patterns found in the windows and doors of Rajasthani palaces.
+                                Rajasthani mehndi designs typically include elements of nature, such as flowers, leaves, and vines, as well as traditional Rajasthani motifs, such as peacocks, elephants, and camels. The designs may also feature geometric shapes, such as triangles and squares, and may incorporate elements of Rajasthani architecture, such as the intricate patterns found in the windows and doors of Rajasthani palaces.
 
-One of the distinguishing features of Rajasthani mehndi is the use of fine lines and dots to create intricate details and patterns. The designs may also incorporate negative space, which helps to create a sense of balance and harmony in the overall design.
+                                One of the distinguishing features of Rajasthani mehndi is the use of fine lines and dots to create intricate details and patterns. The designs may also incorporate negative space, which helps to create a sense of balance and harmony in the overall design.
 
-If you're interested in getting a Rajasthani mehndi design, it's important to find a skilled and experienced mehndi artist who is familiar with this style. You can search online for mehndi artists in your area and check out their portfolio to get a sense of their style and skill level. You can also bring in photos or ideas for inspiration to help your artist create the perfect Rajasthani mehndi design for you.
+                                If you're interested in getting a Rajasthani mehndi design, it's important to find a skilled and experienced mehndi artist who is familiar with this style. You can search online for mehndi artists in your area and check out their portfolio to get a sense of their style and skill level. You can also bring in photos or ideas for inspiration to help your artist create the perfect Rajasthani mehndi design for you.
                                 </p>
                             </div>
                         </div>
@@ -116,7 +122,7 @@ If you're interested in getting a Rajasthani mehndi design, it's important to fi
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/madhubanidesigns/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

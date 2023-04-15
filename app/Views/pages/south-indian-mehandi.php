@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">South Indian mehndi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>South Indian mehndi designs</h2>
                             </div>
 
                         </div>
@@ -90,7 +96,7 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>South Indian mehndi designs</h2>
                                 <p>South Indian mehndi designs are characterized by intricate patterns, floral motifs, and the use of fine lines and dots. They often feature peacock motifs, mango leaves, and paisleys, as well as geometric shapes such as diamonds and squares.
 
                                 One of the distinctive features of South Indian mehndi is the use of negative space, which involves leaving parts of the skin bare to create contrast with the filled-in areas of the design. This creates a delicate and airy look that is very different from the bold and heavy designs of other styles of mehndi.

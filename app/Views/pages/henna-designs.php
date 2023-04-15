@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Henna designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Henna designs</h2>
                             </div>
 
                         </div>
@@ -90,24 +96,24 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Henna designs</h2>
                                 <p>Henna designs, also known as mehndi designs, are intricate and ornate patterns created using henna paste. Henna is a natural dye made from the leaves of the henna plant and has been used for centuries in various cultures around the world to create temporary body art.
 
-Henna designs can be created on any part of the body, but are most commonly seen on the hands, feet, and arms. The designs often feature intricate patterns, swirls, and dots, and can range from simple and understated to complex and ornate.
+                                Henna designs can be created on any part of the body, but are most commonly seen on the hands, feet, and arms. The designs often feature intricate patterns, swirls, and dots, and can range from simple and understated to complex and ornate.
 
-Some popular henna designs include:
+                                Some popular henna designs include:
 
-Floral designs: These designs feature various types of flowers, leaves, and vines, and are often seen on the hands and arms.
+                                Floral designs: These designs feature various types of flowers, leaves, and vines, and are often seen on the hands and arms.
 
-Geometric designs: These designs use shapes like triangles, squares, and diamonds to create intricate patterns and designs.
+                                Geometric designs: These designs use shapes like triangles, squares, and diamonds to create intricate patterns and designs.
 
-Paisley designs: These designs are characterized by the teardrop-shaped paisley motif and often feature elaborate patterns and borders.
+                                Paisley designs: These designs are characterized by the teardrop-shaped paisley motif and often feature elaborate patterns and borders.
 
-Bridal designs: Bridal henna designs are often more elaborate and intricate, featuring traditional bridal motifs like peacocks, elephants, and bride-groom motifs.
+                                Bridal designs: Bridal henna designs are often more elaborate and intricate, featuring traditional bridal motifs like peacocks, elephants, and bride-groom motifs.
 
-Arabic designs: Arabic henna designs are known for their bold lines and geometric patterns, often featuring large, sweeping shapes and intricate details.
+                                Arabic designs: Arabic henna designs are known for their bold lines and geometric patterns, often featuring large, sweeping shapes and intricate details.
 
-Henna designs can be customized to suit the individual's preferences and can be created in a variety of colors and shades. They are often created for special occasions like weddings, festivals, and celebrations, and are a beautiful way to express oneself through temporary body art.
+                                Henna designs can be customized to suit the individual's preferences and can be created in a variety of colors and shades. They are often created for special occasions like weddings, festivals, and celebrations, and are a beautiful way to express oneself through temporary body art.
                                 </p>
                             </div>
                         </div>

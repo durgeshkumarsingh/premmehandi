@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Heavy mehndi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Heavy mehndi designs</h2>
                             </div>
 
                         </div>
@@ -90,20 +96,20 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Heavy mehndi designs</h2>
                                 <p>Heavy mehndi designs are intricate and detailed patterns that cover a large area of the skin, usually the hands and arms. These designs are often characterized by their bold lines, thick borders, and complex motifs. Some popular features of heavy mehndi designs include:
 
-Intricate patterns: Heavy mehndi designs often feature intricate and detailed patterns that cover a large area of the skin. These patterns can include floral motifs, geometric shapes, and intricate borders.
+                                Intricate patterns: Heavy mehndi designs often feature intricate and detailed patterns that cover a large area of the skin. These patterns can include floral motifs, geometric shapes, and intricate borders.
 
-Bold lines: Bold lines are a common feature of heavy mehndi designs. These lines are often thick and bold, creating a dramatic and striking effect.
+                                Bold lines: Bold lines are a common feature of heavy mehndi designs. These lines are often thick and bold, creating a dramatic and striking effect.
 
-Shaded designs: Many heavy mehndi designs feature shading techniques, where the artist uses varying degrees of pressure to create a gradient effect. This can add depth and dimension to the design.
+                                Shaded designs: Many heavy mehndi designs feature shading techniques, where the artist uses varying degrees of pressure to create a gradient effect. This can add depth and dimension to the design.
 
-Bridal motifs: Heavy mehndi designs are often created for brides on their wedding day, and as such, often feature traditional bridal motifs like peacocks, elephants, and bride-groom motifs.
+                                Bridal motifs: Heavy mehndi designs are often created for brides on their wedding day, and as such, often feature traditional bridal motifs like peacocks, elephants, and bride-groom motifs.
 
-Elaborate wrist and forearm designs: Heavy mehndi designs often extend beyond the hands and onto the wrists and forearms, creating a stunning and elaborate effect.
+                                Elaborate wrist and forearm designs: Heavy mehndi designs often extend beyond the hands and onto the wrists and forearms, creating a stunning and elaborate effect.
 
-Overall, heavy mehndi designs are perfect for special occasions like weddings and festivals, where the goal is to create a dramatic and striking effect. These designs can take hours to create and require a skilled artist to execute properly.
+                                Overall, heavy mehndi designs are perfect for special occasions like weddings and festivals, where the goal is to create a dramatic and striking effect. These designs can take hours to create and require a skilled artist to execute properly.
                                 </p>
                             </div>
                         </div>

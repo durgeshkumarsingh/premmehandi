@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Leg mehndi designs</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Leg mehndi designs</h2>
                             </div>
 
                         </div>
@@ -90,22 +96,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
-                                <p>Karwa Chauth is a traditional Indian festival celebrated by married women, where they fast from sunrise to moonrise for the safety and longevity of their husbands. Applying mehndi or henna on the hands and feet is an important part of Karwa Chauth celebrations, and women often get intricate and beautiful mehndi designs done on this occasion.
+                                <h2>Leg mehndi</h2>
+                                <p>Leg mehndi designs are a popular and beautiful way to adorn the feet and add an extra touch of elegance to your overall look. Foot mehndi designs are often more delicate and intricate than hand designs and can range from simple and minimalist to highly detailed and elaborate.
 
-Some popular Karwa Chauth mehndi designs include:
+                                Some popular foot mehndi designs include floral patterns, paisley designs, geometric shapes, and intricate mandalas. Bridal foot mehndi designs often include traditional motifs such as peacocks, elephants, and bride-groom motifs, and are highly detailed and intricate.
 
-Floral designs: Floral mehndi designs are a popular choice for Karwa Chauth, and can include a variety of flowers like lotus, roses, and jasmine.
+                                Foot mehndi designs are often applied on the top of the feet and can extend up to the ankles or even the calves. They can also be applied on the soles of the feet, although this is less common. Foot mehndi designs can be customized to match your personal style, wedding attire, and the overall theme of the wedding.
 
-Peacock motifs: Peacock motifs are a common element in Indian mehndi designs, and can add a regal and elegant touch to Karwa Chauth mehndi designs.
-
-Traditional Indian motifs: Traditional Indian motifs like paisleys, mandalas, and kalash (urn) are often used in Karwa Chauth mehndi designs, and can be combined to create beautiful and intricate patterns.
-
-Bridal mehndi designs: Bridal mehndi designs are often used for Karwa Chauth, as they are elaborate and ornate, and can be customized to include elements like the bride-groom motif or the wedding date.
-
-Minimalist designs: For those who prefer simpler mehndi designs, minimalist designs that feature just a few elements like dots, lines, and simple patterns can also be a great option for Karwa Chauth.
-
-Overall, Karwa Chauth mehndi designs are a beautiful way for married women to express their love for their husbands and add a touch of elegance and beauty to the festive occasion.
+                                When getting a foot mehndi design, it's important to choose a comfortable position to sit in and to keep the feet elevated for the mehndi to dry properly. You may also want to wear open-toed shoes or sandals to show off your beautiful foot mehndi design.
 
                                 </p>
                             </div>
@@ -125,7 +123,7 @@ Overall, Karwa Chauth mehndi designs are a beautiful way for married women to ex
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/legsmehandidesign/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

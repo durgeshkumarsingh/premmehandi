@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Mehandi wala</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi wala</h2>
                             </div>
 
                         </div>
@@ -90,12 +96,12 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi wala</h2>
                                 <p>"Mehandi wala" is a Hindi term that translates to "mehndi artist" in English. In India and other South Asian countries, mehndi is a traditional form of body art that is often applied by professional mehndi artists for special occasions like weddings, festivals, and other celebrations.
 
-The term "mehandi wala" is commonly used to refer to these artists, who use henna paste to create intricate designs on various parts of the body, such as hands, feet, and arms. These artists often have years of experience and are skilled in creating a wide range of mehndi designs, from simple and elegant to elaborate and intricate.
+                                The term "mehandi wala" is commonly used to refer to these artists, who use henna paste to create intricate designs on various parts of the body, such as hands, feet, and arms. These artists often have years of experience and are skilled in creating a wide range of mehndi designs, from simple and elegant to elaborate and intricate.
 
-If you're looking to hire a mehandi wala for your next special occasion, it's important to do your research and find an experienced and reputable artist who can create the design you have in mind. You can ask for recommendations from friends and family or search online for mehndi artists in your area. Be sure to also ask about pricing and availability before booking a session.
+                                If you're looking to hire a mehandi wala for your next special occasion, it's important to do your research and find an experienced and reputable artist who can create the design you have in mind. You can ask for recommendations from friends and family or search online for mehndi artists in your area. Be sure to also ask about pricing and availability before booking a session.
                                 </p>
                             </div>
                         </div>

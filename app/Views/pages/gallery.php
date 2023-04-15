@@ -1,3 +1,10 @@
+ <?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
+
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +18,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Mehandi gallery</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi gallery</h2>
                             </div>
 
                         </div>
@@ -90,30 +97,30 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi gallery</h2>
                                 <p>Mehndi designs are intricate and beautiful patterns created using henna paste on the skin. These designs are often created on the hands, arms, feet, and legs and can vary from simple to complex, traditional to modern, and from region to region.
 
-Some popular mehndi designs include:
+                                    Some popular mehndi designs include:
 
-Floral: These designs feature various types of flowers and leaves, often arranged in a symmetrical pattern.
+                                    Floral: These designs feature various types of flowers and leaves, often arranged in a symmetrical pattern.
 
-Geometric: These designs incorporate shapes like triangles, circles, and diamonds, and are often combined with other designs like paisleys.
+                                    Geometric: These designs incorporate shapes like triangles, circles, and diamonds, and are often combined with other designs like paisleys.
 
-Paisley: These designs feature the paisley motif, which is a droplet-shaped design that originated in Persia.
+                                    Paisley: These designs feature the paisley motif, which is a droplet-shaped design that originated in Persia.
 
-Bridal: These designs are typically very intricate and often feature traditional motifs like peacocks, elephants, and bride-groom motifs.
+                                    Bridal: These designs are typically very intricate and often feature traditional motifs like peacocks, elephants, and bride-groom motifs.
 
-Arabic: These designs typically feature bold, floral patterns and often incorporate large, open spaces to create a dramatic effect.
+                                    Arabic: These designs typically feature bold, floral patterns and often incorporate large, open spaces to create a dramatic effect.
 
-Indian: These designs are often very intricate and detailed, with motifs like lotus flowers, elephants, and peacocks.
+                                    Indian: These designs are often very intricate and detailed, with motifs like lotus flowers, elephants, and peacocks.
 
-Mandala: These designs feature intricate geometric patterns, often arranged in a circular shape.
+                                    Mandala: These designs feature intricate geometric patterns, often arranged in a circular shape.
 
-Modern: These designs often incorporate elements from other styles and can be abstract or graphic.
+                                    Modern: These designs often incorporate elements from other styles and can be abstract or graphic.
 
-Minimalist: These designs are simple and understated, featuring just a few small elements like dots or lines.
+                                    Minimalist: These designs are simple and understated, featuring just a few small elements like dots or lines.
 
-These are just a few examples of the many types of mehndi designs available. Each design is unique and can be customized to suit the individual's preferences and needs.
+                                    These are just a few examples of the many types of mehndi designs available. Each design is unique and can be customized to suit the individual's preferences and needs.
                                 </p>
                             </div>
                         </div>

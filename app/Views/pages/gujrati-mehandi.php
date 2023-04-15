@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Gujarati mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Gujarati mehndi</h2>
                             </div>
 
                         </div>
@@ -90,20 +96,20 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Gujarati mehndi</h2>
                                 <p>Gujarati mehndi designs are a popular style of mehndi art originating from the state of Gujarat in India. These designs are known for their intricate patterns, bold lines, and unique motifs. Some of the key features of Gujarati mehndi designs include:
 
-Peacocks: Peacocks are a common motif in Gujarati mehndi designs. These majestic birds are often depicted in a graceful and ornate style, with their feathers and tails forming intricate patterns.
+                                Peacocks: Peacocks are a common motif in Gujarati mehndi designs. These majestic birds are often depicted in a graceful and ornate style, with their feathers and tails forming intricate patterns.
 
-Floral patterns: Flowers are another popular motif in Gujarati mehndi designs. These designs feature intricate floral patterns, with flowers like roses, lotuses, and daisies forming the central focus.
+                                Floral patterns: Flowers are another popular motif in Gujarati mehndi designs. These designs feature intricate floral patterns, with flowers like roses, lotuses, and daisies forming the central focus.
 
-Fine lines: Gujarati mehndi designs often feature fine, intricate lines that create a delicate and ornate effect.
+                                Fine lines: Gujarati mehndi designs often feature fine, intricate lines that create a delicate and ornate effect.
 
-Paisley motifs: Paisley motifs are a common element in many styles of mehndi, and they are particularly prominent in Gujarati mehndi designs. These droplet-shaped motifs are often arranged in a repeating pattern to create a dramatic effect.
+                                Paisley motifs: Paisley motifs are a common element in many styles of mehndi, and they are particularly prominent in Gujarati mehndi designs. These droplet-shaped motifs are often arranged in a repeating pattern to create a dramatic effect.
 
-Shaded designs: Many Gujarati mehndi designs feature shading techniques, where the artist uses varying degrees of pressure to create a gradient effect.
+                                Shaded designs: Many Gujarati mehndi designs feature shading techniques, where the artist uses varying degrees of pressure to create a gradient effect.
 
-Overall, Gujarati mehndi designs are known for their intricate and detailed patterns, making them a popular choice for special occasions like weddings and festivals.
+                                Overall, Gujarati mehndi designs are known for their intricate and detailed patterns, making them a popular choice for special occasions like weddings and festivals.
                                 </p>
                             </div>
                         </div>

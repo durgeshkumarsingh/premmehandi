@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
           <!-- Start Main Slider -->
         <section class="main-slider style1">
             <div class="slider-box">

@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -11,12 +17,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Karwa Chauth Mehandi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Karwa Chauth Mehandi</h2>
                             </div>
 
                         </div>
@@ -90,22 +96,22 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Karwa Chauth Mehandi</h2>
                                 <p>Karwa Chauth is a traditional Indian festival celebrated by married women, where they fast from sunrise to moonrise for the safety and longevity of their husbands. Applying mehndi or henna on the hands and feet is an important part of Karwa Chauth celebrations, and women often get intricate and beautiful mehndi designs done on this occasion.
 
-Some popular Karwa Chauth mehndi designs include:
+                                Some popular Karwa Chauth mehndi designs include:
 
-Floral designs: Floral mehndi designs are a popular choice for Karwa Chauth, and can include a variety of flowers like lotus, roses, and jasmine.
+                                Floral designs: Floral mehndi designs are a popular choice for Karwa Chauth, and can include a variety of flowers like lotus, roses, and jasmine.
 
-Peacock motifs: Peacock motifs are a common element in Indian mehndi designs, and can add a regal and elegant touch to Karwa Chauth mehndi designs.
+                                Peacock motifs: Peacock motifs are a common element in Indian mehndi designs, and can add a regal and elegant touch to Karwa Chauth mehndi designs.
 
-Traditional Indian motifs: Traditional Indian motifs like paisleys, mandalas, and kalash (urn) are often used in Karwa Chauth mehndi designs, and can be combined to create beautiful and intricate patterns.
+                                Traditional Indian motifs: Traditional Indian motifs like paisleys, mandalas, and kalash (urn) are often used in Karwa Chauth mehndi designs, and can be combined to create beautiful and intricate patterns.
 
-Bridal mehndi designs: Bridal mehndi designs are often used for Karwa Chauth, as they are elaborate and ornate, and can be customized to include elements like the bride-groom motif or the wedding date.
+                                Bridal mehndi designs: Bridal mehndi designs are often used for Karwa Chauth, as they are elaborate and ornate, and can be customized to include elements like the bride-groom motif or the wedding date.
 
-Minimalist designs: For those who prefer simpler mehndi designs, minimalist designs that feature just a few elements like dots, lines, and simple patterns can also be a great option for Karwa Chauth.
+                                Minimalist designs: For those who prefer simpler mehndi designs, minimalist designs that feature just a few elements like dots, lines, and simple patterns can also be a great option for Karwa Chauth.
 
-Overall, Karwa Chauth mehndi designs are a beautiful way for married women to express their love for their husbands and add a touch of elegance and beauty to the festive occasion.
+                                Overall, Karwa Chauth mehndi designs are a beautiful way for married women to express their love for their husbands and add a touch of elegance and beauty to the festive occasion.
                                 </p>
                             </div>
                         </div>
@@ -124,7 +130,7 @@ Overall, Karwa Chauth mehndi designs are a beautiful way for married women to ex
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/karwachauthmehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

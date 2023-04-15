@@ -1,3 +1,9 @@
+<?php $custom_menu=""; if ($city != "") {
+        $custom_menu="/";
+    }else{
+      $cityn= "Delhi";
+    }
+    ?> 
  <!--Start breadcrumb area paroller-->
         <section class="breadcrumb-area">
             <div class="breadcrumb-area-bg" style="background-image: url(<?= site_url() ?>assets/images/prem/bridal.jpg);">
@@ -93,29 +99,24 @@
                                 <h2>Stylish Mehandi</h2>
                                 <p>Stylish mehndi designs are those that are unique, trendy, and incorporate contemporary elements. Here are some ideas for stylish mehndi designs:
 
-Floral and geometric fusion: Combine floral motifs with geometric shapes for a modern look.
+                                Floral and geometric fusion: Combine floral motifs with geometric shapes for a modern look.
 
-Minimalist design: A simple design with clean lines and negative space can make a bold statement.
+                                Minimalist design: A simple design with clean lines and negative space can make a bold statement.
 
-3D design: Create a 3D effect by adding depth and dimension to your design with shading and layering.
+                                3D design: Create a 3D effect by adding depth and dimension to your design with shading and layering.
 
-Glitter mehndi: Add some sparkle to your mehndi by incorporating glitter in your design.
+                                Glitter mehndi: Add some sparkle to your mehndi by incorporating glitter in your design.
 
-Arabic-inspired design: Incorporate Arabic elements like bold lines, dots, and shading for a stylish and elegant look.
+                                Arabic-inspired design: Incorporate Arabic elements like bold lines, dots, and shading for a stylish and elegant look.
 
-Peacock motif: Use the peacock motif as the centerpiece of your design for a stunning and eye-catching effect.
+                                Peacock motif: Use the peacock motif as the centerpiece of your design for a stunning and eye-catching effect.
 
-Mandala design: Mandala designs are trendy and can be incorporated into any mehndi design for a contemporary touch.
+                                Mandala design: Mandala designs are trendy and can be incorporated into any mehndi design for a contemporary touch.
 
-Boho design: Use feathers, dreamcatchers, and other bohemian elements to create a stylish and unique mehndi design.
+                                Boho design: Use feathers, dreamcatchers, and other bohemian elements to create a stylish and unique mehndi design.
 
-When choosing a stylish mehndi design, it's important to consider your personal style and the occasion for which you will be wearing it. You can also work with your mehndi artist to create a custom design that incorporates elements that are meaningful to you.
-
-
-
-
-
-                                </p>
+                                When choosing a stylish mehndi design, it's important to consider your personal style and the occasion for which you will be wearing it. You can also work with your mehndi artist to create a custom design that incorporates elements that are meaningful to you.
+                              </p>
                             </div>
                         </div>
                     </div>
