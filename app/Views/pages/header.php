@@ -128,7 +128,19 @@
                             </div>
                         </div>
                         <!--End Header Middle-->
-
+                        <!--Start Header Right-->
+                        <div class="header-right">
+                            <div class="phone-number-box1">
+                                <div class="icon">
+                                    <span class="icon-phone-ringing"></span>
+                                </div>
+                                <div class="phone">
+                                    <p>Have any questions?</p>
+                                    <a href="tel:123456789">+92 666 888 0000</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Header Right-->
                     </div>
                 </div>
             </div>
@@ -136,23 +148,61 @@
 
             <!--Sticky Header-->
             <div class="sticky-header">
-                <div class="container">
-                    <div class="clearfix">
-                        <!--Logo-->
-                        <div class="logo float-left">
-                            <a href="<?= site_url() ?>" class="img-responsive">
-                                <img src="<?= site_url() ?>assets/images/resources/sticky-logo.png" alt="" title="">
-                            </a>
+                <div class="header">
+                <div class="auto-container">
+                    <div class="outer-box">
+
+                        <!--Start Header Left-->
+                        <div class="header-left">
+                            <div class="main-logo-box">
+                                <a href="<?= site_url() ?>">
+                                    <img src="<?= site_url() ?>assets/images/prem/logo.png" alt="Awesome Logo" title="">
+                                </a>
+                            </div>
+                            <div class="header-social-link">
+                                <ul class="clearfix">
+                                    <li>
+                                        <a href="#"><i class="icon-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-facebook"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-pinterest"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-instagram"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        <!--Right Col-->
-                        <div class="right-col float-right">
-                            <!-- Main Menu -->
-                            <nav class="main-menu clearfix">
-                                <!--Keep This Empty / Menu will come through Javascript-->
-                            </nav>
+                        <!--End Header Left-->
+
+                        <!--Start Header Middle-->
+                        <div class="header-middle">
+                            <div class="nav-outer style1 clearfix">
+                                <nav class="main-menu clearfix">
+                                    <!--Keep This Empty / Menu will come through Javascript-->
+                                </nav>
+                            </div>
                         </div>
+                        <!--End Header Middle-->
+                        <!--Start Header Right-->
+                        <div class="header-right">
+                            <div class="phone-number-box1">
+                                <div class="icon">
+                                    <span class="icon-phone-ringing"></span>
+                                </div>
+                                <div class="phone">
+                                    <p>Have any questions?</p>
+                                    <a href="tel:123456789">+92 666 888 0000</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Header Right-->
                     </div>
                 </div>
+            </div>
             </div>
             <!--End Sticky Header-->
 
