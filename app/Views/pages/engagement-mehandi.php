@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Engagement mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Engagement mehndi</h2>
                             </div>
 
                         </div>
@@ -90,11 +90,11 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Engagement mehndi</h2>
                                 <p>Engagement mehndi is a form of henna body art that is applied to the hands and feet of a bride-to-be on her engagement day. It is a way to celebrate and enhance the beauty of the bride-to-be during her engagement ceremony, which is an important pre-wedding event.
-The designs of engagement mehndi are usually less elaborate and intricate compared to bridal mehndi. They may include simple motifs such as flowers, leaves, and geometric patterns. The color of the mehndi also tends to be lighter than bridal mehndi.
-The purpose of engagement mehndi is to bring good luck and prosperity to the bride-to-be as she enters a new phase in her life. It is also a way to add to the festive and celebratory atmosphere of the engagement ceremony.
-Overall, engagement mehndi is a beautiful tradition that adds to the joy and excitement of a pre-wedding event. It is an opportunity for the bride-to-be to enhance her beauty and celebrate her engagement with family and friends.
+                                The designs of engagement mehndi are usually less elaborate and intricate compared to bridal mehndi. They may include simple motifs such as flowers, leaves, and geometric patterns. The color of the mehndi also tends to be lighter than bridal mehndi.
+                                The purpose of engagement mehndi is to bring good luck and prosperity to the bride-to-be as she enters a new phase in her life. It is also a way to add to the festive and celebratory atmosphere of the engagement ceremony.
+                                Overall, engagement mehndi is a beautiful tradition that adds to the joy and excitement of a pre-wedding event. It is an opportunity for the bride-to-be to enhance her beauty and celebrate her engagement with family and friends.
 
                                 </p>
                             </div>
@@ -114,7 +114,7 @@ Overall, engagement mehndi is a beautiful tradition that adds to the joy and exc
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/engagmentdesign/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Mehandi artist</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi artist</h2>
                             </div>
 
                         </div>
@@ -90,24 +90,24 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Mehandi artist</h2>
                                 <p>The "best" mehndi artist is subjective and can vary depending on individual preferences and needs. However, some qualities that can make a mehndi artist stand out and considered as one of the best are:
 
-Skill and expertise: A good mehndi artist has excellent skills and expertise in applying mehndi designs on different skin types, textures, and tones. They are knowledgeable about different mehndi paste ingredients, techniques, and tools, and can create unique and intricate designs that are tailored to the client's preferences and the occasion.
+                                Skill and expertise: A good mehndi artist has excellent skills and expertise in applying mehndi designs on different skin types, textures, and tones. They are knowledgeable about different mehndi paste ingredients, techniques, and tools, and can create unique and intricate designs that are tailored to the client's preferences and the occasion.
 
-Creativity: A top mehndi artist has a strong sense of creativity and can create innovative and beautiful designs that are visually stunning and stand out from the crowd.
+                                Creativity: A top mehndi artist has a strong sense of creativity and can create innovative and beautiful designs that are visually stunning and stand out from the crowd.
 
-Attention to detail: A skilled mehndi artist pays close attention to detail and ensures that each design element is precise, symmetrical, and aesthetically pleasing.
+                                Attention to detail: A skilled mehndi artist pays close attention to detail and ensures that each design element is precise, symmetrical, and aesthetically pleasing.
 
-Professionalism: A reliable and trustworthy mehndi artist is professional in their approach and communication, and values the client's time, preferences, and needs.
+                                Professionalism: A reliable and trustworthy mehndi artist is professional in their approach and communication, and values the client's time, preferences, and needs.
 
-Hygiene and safety: A good mehndi artist follows strict hygiene and safety practices, such as using fresh and high-quality mehndi paste, sterilizing their tools and equipment, and ensuring that the application process is clean and safe.
+                                Hygiene and safety: A good mehndi artist follows strict hygiene and safety practices, such as using fresh and high-quality mehndi paste, sterilizing their tools and equipment, and ensuring that the application process is clean and safe.
 
-Positive client feedback: A top mehndi artist has positive client feedback, testimonials, and reviews that reflect their excellent work, professionalism, and customer service.
+                                Positive client feedback: A top mehndi artist has positive client feedback, testimonials, and reviews that reflect their excellent work, professionalism, and customer service.
 
-Knowledge of different mehndi styles: A great mehndi artist is familiar with different mehndi styles and can offer a wide range of designs to clients. They are skilled in various styles such as Indian, Arabic, Pakistani, and Rajasthani, and can customize their designs according to the client's preferences.
+                                Knowledge of different mehndi styles: A great mehndi artist is familiar with different mehndi styles and can offer a wide range of designs to clients. They are skilled in various styles such as Indian, Arabic, Pakistani, and Rajasthani, and can customize their designs according to the client's preferences.
 
-Overall, the best mehndi artist is someone who combines skill, creativity, attention to detail, professionalism, hygiene, and knowledge of different mehndi styles to create beautiful and meaningful mehndi designs that meet the client's expectations and make their occasion memorable and special.
+                                Overall, the best mehndi artist is someone who combines skill, creativity, attention to detail, professionalism, hygiene, and knowledge of different mehndi styles to create beautiful and meaningful mehndi designs that meet the client's expectations and make their occasion memorable and special.
                                 </p>
                             </div>
                         </div>

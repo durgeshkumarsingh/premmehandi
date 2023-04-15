@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Bombay-style mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bombay-style mehndi</h2>
                             </div>
 
                         </div>
@@ -90,12 +90,12 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bombay-style mehndi</h2>
                                 <p>Bombay-style mehndi, also known as Mumbai-style mehndi, is a popular form of mehndi art that originated in the city of Mumbai, India. This style is known for its bold and heavy designs that cover a large part of the hands and feet, and are characterized by intricate patterns, detailed motifs, and shading techniques.
 
-The Bombay-style mehndi designs typically feature a combination of geometric shapes, flowers, peacocks, and paisleys, and often include a central motif that extends across the palm or the back of the hand. The designs are drawn using a cone-shaped mehndi paste, and the final result is dark and long-lasting.
+                                The Bombay-style mehndi designs typically feature a combination of geometric shapes, flowers, peacocks, and paisleys, and often include a central motif that extends across the palm or the back of the hand. The designs are drawn using a cone-shaped mehndi paste, and the final result is dark and long-lasting.
 
-One of the key features of Bombay-style mehndi is the use of shading techniques, which create a three-dimensional effect and add depth and dimension to the design. The shading is achieved by applying multiple layers of mehndi paste, and by varying the pressure and direction of the cone while drawing the design.
+                                One of the key features of Bombay-style mehndi is the use of shading techniques, which create a three-dimensional effect and add depth and dimension to the design. The shading is achieved by applying multiple layers of mehndi paste, and by varying the pressure and direction of the cone while drawing the design.
                                 </p>
                             </div>
                         </div>

@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Bridal mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bridal mehndi</h2>
                             </div>
 
                         </div>
@@ -90,14 +90,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Bridal mehndi</h2>
                                 <p>Bridal mehndi is a traditional form of body art that is applied on the hands, arms, feet, and legs of a bride during her wedding celebrations. Bridal mehndi designs are intricate, detailed, and symbolic, and are meant to enhance the bride's beauty and add an element of auspiciousness and joy to the wedding festivities.
 
-Bridal mehndi designs vary in style and complexity depending on the bride's cultural background, personal style, and the wedding theme. Some popular bridal mehndi designs include Indian, Arabic, Pakistani, Moroccan, and Rajasthani styles.
+                                Bridal mehndi designs vary in style and complexity depending on the bride's cultural background, personal style, and the wedding theme. Some popular bridal mehndi designs include Indian, Arabic, Pakistani, Moroccan, and Rajasthani styles.
 
-The process of applying bridal mehndi involves creating a paste of henna leaves, lemon juice, and essential oils, which is then applied on the skin in intricate patterns using a cone or brush. The mehndi paste is left to dry for a few hours, after which it is scraped off, revealing a rich orange-brown stain underneath. The stain gradually darkens over the next 24-48 hours and can last for up to two weeks.
+                                The process of applying bridal mehndi involves creating a paste of henna leaves, lemon juice, and essential oils, which is then applied on the skin in intricate patterns using a cone or brush. The mehndi paste is left to dry for a few hours, after which it is scraped off, revealing a rich orange-brown stain underneath. The stain gradually darkens over the next 24-48 hours and can last for up to two weeks.
 
-Bridal mehndi is an important aspect of many cultures and is believed to bring good luck, prosperity, and happiness to the bride and her family. It is also a symbol of love, commitment, and beauty and is an integral part of the wedding celebrations.
+                                Bridal mehndi is an important aspect of many cultures and is believed to bring good luck, prosperity, and happiness to the bride and her family. It is also a symbol of love, commitment, and beauty and is an integral part of the wedding celebrations.
                                 </p>
                             </div>
                         </div>

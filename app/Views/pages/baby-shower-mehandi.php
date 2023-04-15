@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">Baby shower mehndi</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Baby shower mehndi</h2>
                             </div>
 
                         </div>
@@ -90,12 +90,12 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>Baby shower mehndi</h2>
                                 <p>Baby shower mehndi is a form of henna body art that is applied to celebrate the arrival of a new baby. It is a traditional practice in many cultures, including South Asian and Middle Eastern cultures.
-The designs of baby shower mehndi typically feature motifs that represent the baby and motherhood, such as baby bottles, pacifiers, storks, and other baby-related symbols. The designs may also include traditional motifs such as flowers, paisleys, and geometric shapes.
-Baby shower mehndi is usually applied to the hands and feet of the expectant mother, and sometimes to the guests attending the baby shower as well. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
-The purpose of baby shower mehndi is to celebrate the joy and excitement of a new baby and to bring good luck and blessings to the expectant mother and her family. It is also a way to enhance the festive atmosphere of the baby shower and create a memorable experience for the mother-to-be and her guests.
-Overall, baby shower mehndi is a beautiful and meaningful tradition that adds to the joy and celebration of a new baby's arrival. It is a way to honour the expectant mother and create a memorable experience for her and her loved ones.
+                                The designs of baby shower mehndi typically feature motifs that represent the baby and motherhood, such as baby bottles, pacifiers, storks, and other baby-related symbols. The designs may also include traditional motifs such as flowers, paisleys, and geometric shapes.
+                                Baby shower mehndi is usually applied to the hands and feet of the expectant mother, and sometimes to the guests attending the baby shower as well. The color of the mehndi deepens over time, typically reaching its peak color within 24 to 48 hours after application.
+                                The purpose of baby shower mehndi is to celebrate the joy and excitement of a new baby and to bring good luck and blessings to the expectant mother and her family. It is also a way to enhance the festive atmosphere of the baby shower and create a memorable experience for the mother-to-be and her guests.
+                                Overall, baby shower mehndi is a beautiful and meaningful tradition that adds to the joy and celebration of a new baby's arrival. It is a way to honour the expectant mother and create a memorable experience for her and her loved ones.
 
                                 </p>
                             </div>
@@ -115,7 +115,7 @@ Overall, baby shower mehndi is a beautiful and meaningful tradition that adds to
                <div class="row">
                    <?php 
                     helper('filesystem');
-                    $path = 'assets/images/bridalmehandi/';
+                    $path = 'assets/images/baby-shower-mehandi/';
                     $data = directory_map($path);
                     foreach($data as $image): 
                         $imagename = substr($image, 0, strrpos($image, "."));

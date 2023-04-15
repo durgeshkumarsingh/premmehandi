@@ -11,12 +11,12 @@
                                 <ul>
                                     <li><a href="<?= site_url() ?>">Home</a></li>
                                     <li><a href="<?= site_url('services') ?>">Services</a></li>
-                                    <li class="active">Stylish Mehandi</li>
+                                    <li class="active">bridal mehndi artist</li>
                                 </ul>
                             </div>
 
                             <div class="title" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>bridal mehndi artist</h2>
                             </div>
 
                         </div>
@@ -90,14 +90,14 @@
                             </div>
 
                             <div class="text-box1">
-                                <h2>Stylish Mehandi</h2>
+                                <h2>bridal mehndi artist</h2>
                                 <p>A bridal mehndi artist is a professional mehndi artist who specializes in creating intricate and beautiful mehndi designs for brides on their wedding day. Bridal mehndi artists are highly skilled and experienced in applying mehndi on different skin types, textures, and tones, and can create custom designs that match the bride's style, personality, and wedding attire.
 
-A good bridal mehndi artist has excellent artistic skills and a strong sense of creativity, and can create unique and personalized designs that incorporate traditional and modern elements. They pay close attention to detail and ensure that the design is symmetrical, aesthetically pleasing, and complements the bride's overall look.
+                                A good bridal mehndi artist has excellent artistic skills and a strong sense of creativity, and can create unique and personalized designs that incorporate traditional and modern elements. They pay close attention to detail and ensure that the design is symmetrical, aesthetically pleasing, and complements the bride's overall look.
 
-Bridal mehndi artists also prioritize hygiene and safety and use fresh and high-quality mehndi paste, sterilized tools, and clean application techniques. They also ensure that the mehndi design is long-lasting and remains vibrant throughout the wedding celebrations.
+                                Bridal mehndi artists also prioritize hygiene and safety and use fresh and high-quality mehndi paste, sterilized tools, and clean application techniques. They also ensure that the mehndi design is long-lasting and remains vibrant throughout the wedding celebrations.
 
-In addition, a top bridal mehndi artist is professional, reliable, and communicates effectively with the bride and the wedding party. They value the client's time and preferences, and work closely with them to create a memorable and special mehndi experience on their wedding day.
+                                In addition, a top bridal mehndi artist is professional, reliable, and communicates effectively with the bride and the wedding party. They value the client's time and preferences, and work closely with them to create a memorable and special mehndi experience on their wedding day.
                                 </p>
                             </div>
                         </div>
