@@ -24,7 +24,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="<?= site_url() ?>">
+                                    <a class="btn-one" href="tel:919953490267">
                                         <span class="txt">
                                             Contact Now<i class="icon-refresh arrow"></i>
                                         </span>
@@ -49,7 +49,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="<?= site_url() ?>">
+                                    <a class="btn-one" href="tel:919953490267">
                                         <span class="txt">
                                             Contact Now<i class="icon-refresh arrow"></i>
                                         </span>
@@ -99,7 +99,7 @@
                                     <div class="single-features-style1">
                                         <div class="icon-holder">
                                             <div class="box"></div>
-                                            <span class="icon-dustbin"></span>
+                                            <img src="assets/images/bridalmehandi/312367838_5495592873891874_5228545328186408460_n.jpg">
                                         </div>
                                         <div class="text-holder">
                                             <h3><a href="<?= site_url('bridalmehandi')?>">Bridal Mehandi</a></h3>
