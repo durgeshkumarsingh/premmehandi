@@ -262,7 +262,7 @@
                             <div class="inner">
                                 <div class="round-box"></div>
                                 <div class="icon">
-                                    <span class="icon-garbage-bin"></span>
+                                    <img src="assets/images/bridalmehandi/320601031_3455245518026766_4280643310458772174_n.jpg">
                                 </div>
                                 <div class="text">
                                     <h3>Bridal Mehandi</h3>
@@ -282,7 +282,7 @@
                             <div class="inner">
                                 <div class="round-box"></div>
                                 <div class="icon">
-                                    <span class="icon-dustbin-1"></span>
+                                    <img src="assets/images/arabicmehandi/317007851_197389912821205_5185436831663680745_n.jpg">
                                 </div>
                                 <div class="text">
                                     <h3>Arabic Mehandi</h3>
@@ -302,7 +302,7 @@
                             <div class="inner">
                                 <div class="round-box"></div>
                                 <div class="icon">
-                                    <span class="icon-portable-toilet"></span>
+                                    <img src="assets/images/legsmehandidesign/279647232_366088128913972_3585964614997433733_n.jpg">
                                 </div>
                                 <div class="text">
                                     <h3>Feet Mehandi</h3>
@@ -322,11 +322,11 @@
                             <div class="inner">
                                 <div class="round-box"></div>
                                 <div class="icon">
-                                    <span class="icon-recycle"></span>
+                                    <img src="assets/images/normalmehandi/321525499_547780670324447_3265567674016944553_n.jpg">
                                 </div>
                                 <div class="text">
-                                    <h3>Fusion Mhandi</h3>
-                                    <p>Fusion Mehandi is a form of mehndi patterns which...</p>
+                                    <h3>Guest Mehandi</h3>
+                                    <p>Guest Mehandi is a form of mehndi patterns which...</p>
                                 </div>
                             </div>
                             <div class="btn-box">
