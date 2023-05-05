@@ -195,10 +195,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box">
                             <div class="inner-content">
-                                <div class="icon">
-                                    <div class="box"></div>
-                                    <img src="assets/images/bridalmehandi/312367838_5495592873891874_5228545328186408460_n.jpg">
-                                </div>
+                                
                                 <div class="title">
                                     <h3>Latest Bridal Mehandi designs</h3>
                                     <h2>We provide<br> home services</h2>
@@ -224,10 +221,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box left">
                             <div class="inner-content">
-                                <div class="icon">
-                                    <div class="box"></div>
-                                    <img src="assets/images/bridalmehandi/312367838_5495592873891874_5228545328186408460_n.jpg">
-                                </div>
+                                
                                 <div class="title">
                                     <h3>100% Natural mehandi</h3>
                                     <h2>100% colour guaarantee</h2>
