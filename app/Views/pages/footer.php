@@ -20,17 +20,18 @@
                                         <div class="footer-social-link">
                                             <ul class="clearfix">
                                                 <li>
-                                                    <a href="#"><i class="icon-twitter"></i></a>
+                                                    <a href="https://www.instagram.com/premmehandi1/"><i class="icon-instagram"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href="#"><i class="icon-facebook"></i></a>
+                                                    <a href="https://www.youtube.com/@premmehandiart6462"><i class="icon-youtube"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href="#"><i class="icon-pinterest"></i></a>
+                                                    <a href="https://www.facebook.com/premmehandi67"><i class="icon-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href="#"><i class="icon-instagram"></i></a>
+                                                    <a href="https://in.pinterest.com/premmehandi1/"><i class="icon-pinterest"></i></a>
                                                 </li>
+                                                
                                             </ul>
                                         </div>
                                     </div>

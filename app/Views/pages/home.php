@@ -111,7 +111,7 @@
                                     <div class="single-features-style1">
                                         <div class="icon-holder">
                                             <div class="box"></div>
-                                            <span class="icon-garbage-can"></span>
+                                            <img src="assets/images/normalmehandi/321525499_547780670324447_3265567674016944553_n.jpg">
                                         </div>
                                         <div class="text-holder">
                                             <h3><a href="<?= site_url('stylishmehandi')?>">Stylish Mehandi</a></h3>
@@ -123,7 +123,7 @@
                                     <div class="single-features-style1">
                                         <div class="icon-holder">
                                             <div class="box"></div>
-                                            <span class="icon-calendar"></span>
+                                            <img src="assets/images/normalmehandi/324946894_572384667673856_7749335870872617027_n.jpg">
                                         </div>
                                         <div class="text-holder">
                                             <h3><a href="<?= site_url('normalmehandi')?>">Normal Mehandi</a></h3>
@@ -197,11 +197,11 @@
                             <div class="inner-content">
                                 <div class="icon">
                                     <div class="box"></div>
-                                    <span class="icon-garbage-can"></span>
+                                    <img src="assets/images/bridalmehandi/312367838_5495592873891874_5228545328186408460_n.jpg">
                                 </div>
                                 <div class="title">
-                                    <h3>Lorem ipsum is free text</h3>
-                                    <h2>Landfill and Transfer<br> Station Services</h2>
+                                    <h3>Latest Bridal Mehandi designs</h3>
+                                    <h2>We provide<br> home services</h2>
                                 </div>
                             </div>
                         </div>
@@ -226,11 +226,11 @@
                             <div class="inner-content">
                                 <div class="icon">
                                     <div class="box"></div>
-                                    <span class="icon-toxic-waste"></span>
+                                    <img src="assets/images/bridalmehandi/312367838_5495592873891874_5228545328186408460_n.jpg">
                                 </div>
                                 <div class="title">
-                                    <h3>Lorem ipsum is free text</h3>
-                                    <h2>Accepts Special Waste<br> at Many Locations</h2>
+                                    <h3>100% Natural mehandi</h3>
+                                    <h2>100% colour guaarantee</h2>
                                 </div>
                             </div>
                         </div>

@@ -76,16 +76,16 @@
                             <div class="header-social-link">
                                 <ul class="clearfix">
                                     <li>
-                                        <a href="#"><i class="icon-twitter"></i></a>
+                                        <a href="https://www.youtube.com/@premmehandiart6462"><i class="icon-youtube"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-facebook"></i></a>
+                                        <a href="https://www.facebook.com/premmehandi67"><i class="icon-facebook"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-pinterest"></i></a>
+                                        <a href="https://in.pinterest.com/premmehandi1/"><i class="icon-pinterest"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-instagram"></i></a>
+                                        <a href="https://www.instagram.com/premmehandi1/"><i class="icon-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -136,7 +136,7 @@
                                 </div>
                                 <div class="phone">
                                     <p>Have any questions?</p>
-                                    <a href="tel:123456789">+92 666 888 0000</a>
+                                    <a href="tel:9953490267">9953490267</a>
                                 </div>
                             </div>
                         </div>
@@ -162,16 +162,16 @@
                             <div class="header-social-link">
                                 <ul class="clearfix">
                                     <li>
-                                        <a href="#"><i class="icon-twitter"></i></a>
+                                        <a href="https://www.youtube.com/@premmehandiart6462"><i class="icon-youtube"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-facebook"></i></a>
+                                        <a href="https://www.facebook.com/premmehandi67"><i class="icon-facebook"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-pinterest"></i></a>
+                                        <a href="https://in.pinterest.com/premmehandi1/"><i class="icon-pinterest"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="icon-instagram"></i></a>
+                                        <a href="https://www.instagram.com/premmehandi1/"><i class="icon-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -195,7 +195,7 @@
                                 </div>
                                 <div class="phone">
                                     <p>Have any questions?</p>
-                                    <a href="tel:123456789">+92 666 888 0000</a>
+                                    <a href="tel:9953490267">9953490267</a>
                                 </div>
                             </div>
                         </div>
@@ -219,11 +219,12 @@
                     <!--Social Links-->
                     <div class="social-links">
                         <ul class="clearfix">
-                            <li><a href="#"><span class="fab fa fa-facebook-square"></span></a></li>
-                            <li><a href="#"><span class="fab fa fa-twitter-square"></span></a></li>
-                            <li><a href="#"><span class="fab fa fa-pinterest-square"></span></a></li>
-                            <li><a href="#"><span class="fab fa fa-google-plus-square"></span></a></li>
-                            <li><a href="#"><span class="fab fa fa-youtube-square"></span></a></li>
+                            <li><a href="https://www.instagram.com/premmehandi1/"><span class="fab fa fa-instagram-square"></span></a></li>
+                            <li><a href="https://www.facebook.com/premmehandi67"><span class="fab fa fa-facebook-square"></span></a></li>
+                            
+                            <li><a href="https://in.pinterest.com/premmehandi1/"><span class="fab fa fa-pinterest-square"></span></a></li>
+                            
+                            <li><a href="https://www.youtube.com/@premmehandiart6462"><span class="fab fa fa-youtube-square"></span></a></li>
                         </ul>
                     </div>
                 </nav>
